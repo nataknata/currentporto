@@ -1,0 +1,217 @@
+{
+  "settings": {
+    "name": "Resumeg",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {},
+      "additionalSetColors": []
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.8.1",
+    "siteFonts": [],
+    "uniqCompNum": 9,
+    "versionPublish": "4.8.1",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/render2-2000x1125.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.5"
+          },
+          "title": "ABDI NATA KUSUMA",
+          "text": "AR / VR Spesialist | 3D Artist",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Download Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">Learn More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-0",
+          "_styles": {
+            "P": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "36px",
+              "color": "#ffffff"
+            },
+            "H1": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "60px",
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/photo-13.jpg",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/OSDdmdHpavg",
+              "autoplay": false,
+              "loop": "on"
+            }
+          },
+          "text": "A new way to learn Human Anatommy with AR",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-5"
+        },
+        {
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/photo-13.jpg",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/00igUrsDbqk",
+              "autoplay": false,
+              "loop": "on"
+            }
+          },
+          "text": "Safety simulation in VR",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-6"
+        },
+        {
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/photo-13.jpg",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/E6Hz7vvM2m4",
+              "autoplay": false,
+              "loop": "on"
+            }
+          },
+          "text": "VR technical assistance",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-7"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showName": true,
+            "showBio": false,
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "header": "<b>Past Projects</b>",
+          "items": [
+            {
+              "authorName": "Trimera Interactive.",
+              "authorBio": "",
+              "text": "<p><b>Lunatech | a scifi tactical shooter game that focusing on gene modification system. It is planned to release the tech demo this winter (2020) and full game on late 2021 on PC.</b></p><p><em>Role : 3D,Texture &amp; Shader Artist</em></p>"
+            },
+            {
+              "authorName": "SUFFIAN A.",
+              "authorBio": "User",
+              "text": "<p><b>Wrecker 2031 | A third person game that taken place on post apo scene where in that time the bio technology allow it to convert human to mutants.&nbsp;</b></p><p><b>The demo was released on 2017/2018, the development was postponed but the demo still available on gamejolt, however You can't access all the update &nbsp;&amp; fixes since I was turned off the server since year ago.</b></p>"
+            },
+            {
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User",
+              "text": "<p><b>There's alot of prototypes i did in the past years.</b></p><p><b>Here's the list :</b></p>"
+            }
+          ],
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-8",
+          "testimonial": [
+            {
+              "authorName": "Trimera Interactive.",
+              "authorBio": "",
+              "text": "<p><b>Lunatech | a scifi tactical shooter game that focusing on gene modification system. It is planned to release the tech demo this winter (2020) and full game on late 2021 on PC.</b></p><p><em>Role : 3D,Texture &amp; Shader Artist</em></p>"
+            },
+            {
+              "authorName": "as Independent Game Dev",
+              "authorBio": "User",
+              "text": "<p><b>Wrecker 2031 | A third person game that taken place on post apo scene where in that time the bio technology allow it to convert human to mutants.&nbsp;</b></p><p><b>The demo was released on 2017/2018, the development was postponed but the demo still available on gamejolt, however You can't access all the update &nbsp;&amp; fixes since I was turned off the server since year ago.</b></p>"
+            },
+            {
+              "authorName": "Misc",
+              "authorBio": "User",
+              "text": "<p><b>There's alot of prototypes I did in the past years mostly in Unity, also Unreal.</b></p><p><b>Since this site is public, I can't give some another snapshots &nbsp;that i'm currently working on at the moment due to the need of licences/grants from my current &amp; past clients.</b></p>"
+            }
+          ],
+          "_styles": {
+            ".card-block EM": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

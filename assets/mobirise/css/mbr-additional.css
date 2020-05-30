@@ -1,0 +1,22 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+
+
+
+#header1-0 P {
+  font-family: 'Oswald', sans-serif;
+  font-size: 36px;
+  color: #ffffff;
+}
+#header1-0 H1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 60px;
+  color: #ffffff;
+}
+#testimonials1-8 .card-block EM {
+  font-family: 'Oswald', sans-serif;
+}
+#testimonials1-8 .mbr-section-title {
+  font-family: 'Oswald', sans-serif;
+}
