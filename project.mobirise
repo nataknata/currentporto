@@ -13,7 +13,11 @@
     "siteFonts": [],
     "uniqCompNum": 9,
     "versionPublish": "4.8.1",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/rollingdoor3-128x123.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
@@ -167,14 +171,14 @@
               "text": "<p><b>Lunatech | a scifi tactical shooter game that focusing on gene modification system. It is planned to release the tech demo this winter (2020) and full game on late 2021 on PC.</b></p><p><em>Role : 3D,Texture &amp; Shader Artist</em></p>"
             },
             {
-              "authorName": "SUFFIAN A.",
+              "authorName": "as Independent Game Dev",
               "authorBio": "User",
               "text": "<p><b>Wrecker 2031 | A third person game that taken place on post apo scene where in that time the bio technology allow it to convert human to mutants.&nbsp;</b></p><p><b>The demo was released on 2017/2018, the development was postponed but the demo still available on gamejolt, however You can't access all the update &nbsp;&amp; fixes since I was turned off the server since year ago.</b></p>"
             },
             {
-              "authorName": "JHOLLMAN C.",
+              "authorName": "Misc",
               "authorBio": "User",
-              "text": "<p><b>There's alot of prototypes i did in the past years.</b></p><p><b>Here's the list :</b></p>"
+              "text": "<p><b>There's alot of prototypes I did in the past years mostly in Unity, also Unreal.</b></p><p><b>Since this site is public, I can't give some another snapshots &nbsp;that i'm currently working on at the moment due to the need of licences/grants from my current &amp; past clients.</b></p>"
             }
           ],
           "alias": "purity/components",
